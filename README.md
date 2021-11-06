@@ -3,7 +3,7 @@
 ## Laravel Livewire Simple Ticketing System
 
 After downloading this repo, please open the project and run:
-(php artisan migrate:fresh --seed) before interacting with it.
+(php artisan migrate:fresh --seed), delete the storage directory inside the app directory and run (php artisan storage:link) before interacting with it.
 Lara-Artisans only will understand :)
 
 #Thank You!!!
